@@ -1,2 +1,2 @@
-# Study-record
+# Study
 Bioinformatics-and-Genetics
